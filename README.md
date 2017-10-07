@@ -17,4 +17,5 @@ The repository is created to keep track of my progress in Javascript30 course by
 
 ## Day3 - Playing with CSS variables and JS
 
-**What did I learn?** - About CSS variables and using -- for its syntax.
+**What did I learn?** - About CSS variables and using -- for its syntax. 
+You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">here</a>
