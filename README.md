@@ -13,3 +13,8 @@ The repository is created to keep track of my progress in Javascript30 course by
 ## Day2 - Clock :alarm_clock:
 
 **What did I learn?** - I never knew that there's a cubic bazier editor in Chrome dev tools! Also about transform-origin, which is used to identify the origin of the hour, minute and second hands in the center of clock.
+
+
+## Day3 - Playing with CSS variables and JS
+
+**What did I learn?** - About CSS variables and using -- for its syntax.
