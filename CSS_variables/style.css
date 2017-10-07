@@ -1,0 +1,32 @@
+:root {
+      --base: #466C15;
+      --spacing: 10px;
+      --blur: 10px;
+    }
+
+    img {
+      padding: var(--spacing);
+      background: var(--base);
+      filter: blur(var(--blur));
+    }
+
+
+    body {
+      text-align: center;
+    }
+
+    body {
+      background: #487690;
+      color: #E5F8FC;
+      font-family: 'Germania One', cursive;
+      font-size: 50px;
+    }
+
+    a {
+      color: var(--base);
+      text-decoration: none;
+    }
+
+    form {
+      margin-bottom: 50px;
+    }
