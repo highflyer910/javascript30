@@ -19,3 +19,8 @@ The repository is created to keep track of my progress in Javascript30 course by
 
 **What did I learn?** - About CSS variables and using -- for its syntax. 
 You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">here</a>
+
+
+## Day4 - Array methods
+
+**What did I learn?** - I didn't know about console.table. It's a game changer! Also it was a good exercise with bult-in array methods like map, filter, reduce and sort.
