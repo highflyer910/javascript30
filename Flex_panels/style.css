@@ -1,6 +1,6 @@
     html {
       box-sizing: border-box;
-      background:#ffc600;
+      background:#fcdda9;
       font-family: 'Modak', cursive;
       font-size: 14px;
     }
@@ -18,7 +18,7 @@
     }
 
     .panel {
-      background:#6B0F9C;
+      background:#fcdda9;
       box-shadow:inset 0 0 0 5px rgba(255,255,255,0.1);
       color:#fcdda9;
       text-align: center;
