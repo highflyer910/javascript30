@@ -1,0 +1,82 @@
+    html {
+      box-sizing: border-box;
+      background:#ffc600;
+      font-family: 'Modak', cursive;
+      font-size: 14px;
+    }
+    body {
+      margin: 0;
+    }
+    *, *:before, *:after {
+      box-sizing: inherit;
+    }
+
+    .panels {
+      min-height:100vh;
+      overflow: hidden;
+      display: flex;
+    }
+
+    .panel {
+      background:#6B0F9C;
+      box-shadow:inset 0 0 0 5px rgba(255,255,255,0.1);
+      color:#fcdda9;
+      text-align: center;
+      align-items:center;
+      
+      transition:
+        font-size 0.7s cubic-bezier(0.61,-0.19, 0.7,-0.11),
+        flex 0.7s cubic-bezier(0.61,-0.19, 0.7,-0.11),
+        background 0.2s;
+      font-size: 14px;
+      background-size:cover;
+      background-position:center;
+      flex: 1;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+    }
+
+
+    .panel1 { background-image:url(http://res.cloudinary.com/highflyer910/image/upload/v1504724717/18_gyzj5h.png); }
+    .panel2 { background-image:url(http://res.cloudinary.com/highflyer910/image/upload/v1504724712/01_miepg2.jpg); }
+    .panel3 { background-image:url(http://res.cloudinary.com/highflyer910/image/upload/v1504724726/45_yipve8.png);}
+    .panel4 { background-image:url(http://res.cloudinary.com/highflyer910/image/upload/v1504724713/03_jfagpw.png); }
+    .panel5 { background-image:url(http://res.cloudinary.com/highflyer910/image/upload/v1504724722/25_vy2qtq.png); }
+
+    .panel > * {
+      margin:0;
+      width: 100%;
+      transition:transform 0.5s;
+      flex: 1 0 auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .panel > *:first-child { transform: translateY(-100%); }
+    .panel.open-active > *:first-child { transform: translateY(0); }
+    .panel > *:last-child { transform: translateY(100%); }
+    .panel.open-active > *:last-child { transform: translateY(0); }
+
+    .panel p {
+      text-transform: uppercase;
+      font-family: 'Modak', cursive;
+      text-shadow:0 0 4px rgba(0, 0, 0, 0.72), 0 0 14px rgba(0, 0, 0, 0.45);
+      font-size: 2em;
+      cursor: pointer;
+    }
+    .panel p:nth-child(2) {
+      font-size: 4em;
+    }
+
+    .panel.open {
+      flex: 5;
+      font-size:40px;
+    }
+
+    .cta {
+      color:white;
+      text-decoration: none;
+    }
