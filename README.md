@@ -24,3 +24,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day4 - Array methods
 
 **What did I learn?** - I didn't know about console.table. It's a game changer! Also it was a good exercise with bult-in array methods like map, filter, reduce and sort.
+
+
+## Day5 - Flex Panels :milky_way:
+
+**What did I learn?** - Using an includes() method in if statements. The project can be seen <a href="https://codepen.io/HighFlyer/full/dVeQjX/">here</a>
