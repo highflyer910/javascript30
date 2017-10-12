@@ -33,4 +33,4 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 
 ## Day6 - Type Ahead
 
-**What did I learn?** - Worked with Fetch API
+**What did I learn?** - Learned about Fetch API
