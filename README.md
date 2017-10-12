@@ -29,3 +29,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day5 - Flex Panels :milky_way:
 
 **What did I learn?** - Using an includes() method in if statements. The project can be seen <a href="https://codepen.io/HighFlyer/full/dVeQjX/">here</a>
+
+
+## Day6 - Type Ahead
+
+**What did I learn?** - Worked with Fetch API
