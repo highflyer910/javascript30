@@ -36,6 +36,11 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 **What did I learn?** - Learned about Fetch API
 
 
-## Day7 - Cardio Day2
+## Day7 - Cardio Day2  
 
 **What did I learn?** - Getting better at my ES6 syntax
+
+
+## Day8 - HTML5 Canvas :art:
+
+**What did I learn?** - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">Destructuring an array</a> by extracting data.
