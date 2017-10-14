@@ -4,8 +4,22 @@
   }
 
   html, body {
+  	background-color: black;
     width: 100%;
     height: 100%;
   }
 
-  canvas { display: block; }
+  canvas { 
+  	display: block; 
+  }
+
+  span {
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 0;
+  top: 50px;
+  margin: 0 auto;
+  width: 300px;
+  font-family: Helvetica;
+}

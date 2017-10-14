@@ -7,7 +7,7 @@ const canvas = document.querySelector('#draw');
   ctx.strokeStyle = '#BADA55';
   ctx.lineJoin = 'round';
   ctx.lineCap = 'round';
-  ctx.lineWidth = 50;
+  ctx.lineWidth = 30;
 
   let isDrawing = false;
   let lastX = 0;
@@ -30,7 +30,7 @@ const canvas = document.querySelector('#draw');
       hue = 0;
     }
 
-    if(ctx.lineWidth >= 50 || ctx.lineWidth <= 1) {
+    if(ctx.lineWidth >= 30 || ctx.lineWidth <= 1) {
       direction = !direction;
     }
     
