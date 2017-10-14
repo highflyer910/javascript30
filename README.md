@@ -34,3 +34,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day6 - Type Ahead
 
 **What did I learn?** - Learned about Fetch API
+
+
+## Day7 - Cardio Day2
+
+**What did I learn?** - Getting better at my ES6 syntax
