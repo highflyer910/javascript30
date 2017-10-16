@@ -48,4 +48,9 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 
 ## Day9 - Dev Tools Tricks
 
-**What did I learn?** - I didn't know that there is more to the global console object than console.log. 
+**What did I learn?** - I didn't know that there is more to the global console object than console.log.
+
+
+## Day10 - Checking multiple checkboxes :white_check_mark:
+
+**What did I learn?** - Learned much more <a href="https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent">MouseEvent</a> properties.
