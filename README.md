@@ -44,3 +44,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day8 - HTML5 Canvas :art:
 
 **What did I learn?** - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">Destructuring an array</a> by extracting data.
+
+
+## Day9 - Dev Tools Tricks
+
+**What did I learn?** - I didn't know that there is more to the global console object than console.log. 
