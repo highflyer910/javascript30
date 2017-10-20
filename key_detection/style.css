@@ -1,0 +1,11 @@
+body{
+	background: #1f212e;
+	color: #61698d;
+}
+
+.well{
+	background: #1f212e;
+	font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+    border: 1px solid #61698d;
+}
