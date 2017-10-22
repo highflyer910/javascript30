@@ -59,3 +59,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day11 - HTML video player :video_camera:
 
 **What did I learn?** - Creating my own volume and playback rate features. The project you can check <a href="https://highflyer910.github.io/video_player/">here</a> 
+
+
+## Day12 - Key Sequence Detection :rainbow:
+
+**What did I learn?** -  to detect when a user inputs a specific key sequence.
