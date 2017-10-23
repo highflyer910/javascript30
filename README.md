@@ -64,3 +64,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day12 - Key Sequence Detection :rainbow:
 
 **What did I learn?** -  to detect when a user inputs a specific key sequence.
+
+
+## Day13 - Slide in on Scroll
+
+**What did I learn?** - About javascript debounce function.
