@@ -69,3 +69,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day13 - Slide in on Scroll
 
 **What did I learn?** - About javascript debounce function.
+
+
+## Day14 - Javascript reference and copy
+
+**What did I learn?** - Object.assign(), more about array & object reference vs actual copy.
