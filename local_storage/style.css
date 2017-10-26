@@ -1,0 +1,81 @@
+
+    html {
+      box-sizing: border-box;
+      background:url('http://wallsdesk.com/wp-content/uploads/2016/10/Coffee-Beans-HD-Background-.jpg') center no-repeat;
+      background-size:cover;
+      min-height:100vh;
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-family: Futura,"Trebuchet MS",Arial,sans-serif
+    }
+    *, *:before, *:after {box-sizing: inherit; }
+
+    svg {
+      fill:#d4b48e;
+      background: #88340A;
+      padding: 20px;
+      border-radius: 50%;
+      width:200px;
+      margin-bottom: 50px;
+      opacity: 0.9;
+    }
+
+    .wrapper {
+      padding: 20px;
+      max-width: 350px;
+      background: #88340A;
+      box-shadow: 0 0 0 10px #d4b48e;
+      opacity: 0.9;
+    }
+
+    h2 {
+      text-align: center;
+      margin: 0;
+      font-weight: 200;
+      color: #d4b48e;
+    }
+
+    .plates {
+      margin: 0;
+      padding: 0;
+      text-align: left;
+      list-style: none;
+    }
+
+    .plates li {
+      border-bottom: 1px solid #d4b48e;
+      padding: 10px 0;
+      font-weight: 100;
+      display: flex;
+    }
+
+    .plates label {
+      flex:1;
+      cursor: pointer;
+
+    }
+
+    .plates input {
+      display: none;
+    }
+
+    .plates input + label:before {
+      content: '⬜️';
+      margin-right: 10px;
+    }
+
+    .plates input:checked + label:before {
+      content: '🌮';
+    }
+
+    .add-items {
+      margin-top: 20px;
+    }
+
+    .add-items input {
+      padding:10px;
+      outline:0;
+      border:1px solid #d4b48e;
+    }
