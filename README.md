@@ -74,3 +74,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day14 - Javascript reference and copy
 
 **What did I learn?** - Object.assign(), more about array & object reference vs actual copy.
+
+
+## Day15 - Local Storage and Event Delegation
+
+**What did I learn?** - the ability to delete this data by highlighting the line of data and clicking the X at the bottom of the screen.
