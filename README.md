@@ -79,3 +79,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day15 - Local Storage and Event Delegation
 
 **What did I learn?** - the ability to delete this data by highlighting the line of data and clicking the X at the bottom of the screen.
+
+
+## Day16 - CSS Text Shadow Mouse Effect  :jack_o_lantern: 
+
+**What did I learn?** - how to apply a text shadow effect to a word when the mouse moves around.
