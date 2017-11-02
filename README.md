@@ -84,3 +84,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day16 - CSS Text Shadow Mouse Effect  :jack_o_lantern: 
 
 **What did I learn?** - how to apply a text shadow effect to a word when the mouse moves around.
+
+
+## Day17 - Sorting names without articles
+
+**What did I learn?** - Got comfortable with sort(). Use Array.prototype.sort() to sort a list of band names while not incorporating The, An and A while sorting.
