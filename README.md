@@ -89,3 +89,7 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day17 - Sorting names without articles
 
 **What did I learn?** - Got comfortable with sort(). Use Array.prototype.sort() to sort a list of band names while not incorporating The, An and A while sorting.
+
+## Day18 - Tally String Times With Reduce
+
+**What did I learn?** - When you use document.querySelectorAll, it outputs a NodeList object. This looks like an array but you won't be able to use many of its methods. When a NodeList (or an array-like object) is returned, use Array.from() to create a new array instance.
