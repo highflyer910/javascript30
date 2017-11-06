@@ -93,3 +93,7 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day18 - Tally String Times With Reduce
 
 **What did I learn?** - When you use document.querySelectorAll, it outputs a NodeList object. This looks like an array but you won't be able to use many of its methods. When a NodeList (or an array-like object) is returned, use Array.from() to create a new array instance.
+
+## Day19 - Speech Detection
+
+**What did I learn?** - The browser's speech recognition capabilities.
