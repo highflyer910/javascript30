@@ -1,0 +1,89 @@
+html {
+  font-size: 10px;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lobster', cursive;
+  display:flex;
+  min-height: 100vh;
+  align-items: center;
+  background-color: #ebe1c5;
+  background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%23ebcc6e' fill-opacity='0.4'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+
+.voiceinator {
+  padding:2rem;
+  width:50rem;
+  margin:0 auto;
+  border-radius:1rem;
+  position: relative;
+  background:white;
+  overflow: hidden;
+  z-index: 1;
+  box-shadow:0 0 5px 5px #878266;
+}
+
+h1 {
+  width:calc(100% + 4rem);
+  margin: -2rem 0 2rem -2rem;
+  padding:.5rem;
+  background: #ED834E;
+  border-bottom: 5px solid #EBCC6E;
+  text-align: center;
+  font-size: 5rem;
+  color: #595643;
+  font-family: 'Lobster', cursive;
+  text-shadow:3px 3px 0 #EBCC6E;
+
+}
+
+.voiceinator input,
+.voiceinator button,
+.voiceinator select,
+.voiceinator textarea {
+  width: 100%;
+  display: block;
+  margin:10px 0;
+  padding:10px;
+  border:0;
+  font-size: 2rem;
+  background:#EBE1C5;
+  outline:0;
+}
+
+textarea {
+  height: 20rem;
+}
+
+input[type="select"] {
+
+}
+
+.voiceinator button {
+  background:#ED834E;
+  border:0;
+  width: 49%;
+  float:left;
+  font-family: 'Pacifico', cursive;
+  margin-bottom: 0;
+  font-size: 2rem;
+  border-bottom: 5px solid #EBCC6E;
+  cursor:pointer;
+  position: relative;
+}
+
+.voiceinator button:active {
+  top:2px;
+}
+
+.voiceinator button:nth-of-type(1) {
+  margin-right: 2%;
+}
