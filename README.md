@@ -109,3 +109,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day21 - Geolocation based Speedometer and Compass
 
 **What did I learn?** - The Geolocation API contains a heading attribute which provides the number of degrees from North.
+
+
+## Day22 - Follow Along Navs
+
+**What did I learn?** - Element.getBoundingClientRect() tells us where on the page the element lives. This was used to calculate and move the highlighted box over to the user's cursor when it was hovered over a link.
