@@ -114,3 +114,8 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day22 - Follow Along Navs
 
 **What did I learn?** - Element.getBoundingClientRect() tells us where on the page the element lives. This was used to calculate and move the highlighted box over to the user's cursor when it was hovered over a link.
+
+
+## Day23 - Speech Synthesis
+
+**What did I learn?** - More about *SpeechSynthesisUtterance* and <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API">Web Speech API</a>.
