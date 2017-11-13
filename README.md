@@ -119,3 +119,9 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day23 - Speech Synthesis
 
 **What did I learn?** - More about *SpeechSynthesisUtterance* and <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API">Web Speech API</a>.
+
+
+## Day24 - Sticky Nav
+
+**What did I learn?** - Nothing new
+ 
