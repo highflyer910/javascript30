@@ -129,4 +129,9 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day25 - Javascript's Capture
 
 **What did I learn?** - The event Listener method includes an options object which includes once. This will listen for an event once and then unbind itself so there's no future clicks on it.
+
+
+## Day26 - Stripe Follow Along Dropdown
+
+**What did I learn?** - Extending what we learned in Day22's challenge, continued building out the dropdown menu that transforms the height, width and content.
  
