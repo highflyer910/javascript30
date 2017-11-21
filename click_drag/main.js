@@ -21,7 +21,7 @@ const slider = document.querySelector('.items');
   });
 
   slider.addEventListener('mousemove', (e) => {
-    if (!isDown) return;  // stop the fn from running
+    if (!isDown) return;  
     e.preventDefault();
     const x = e.pageX - slider.offsetLeft;
     const walk = (x - startX) * 3;
