@@ -138,5 +138,10 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 
 ## Day27 - Click and Drag
 
-**What I learned?** - The ability for the user to click and drag the contents horizontally.
+**What did I learn?** - The ability for the user to click and drag the contents horizontally.
+
+
+## Day28 - Video Speed Controller UI
+
+**What did I learn?** - adding a speed controller to the corresponding video. The offset properties are important for proper aligments. For block-level elements, offsetTop, offsetLeft, offsetWidth, and offsetHeight describe the border box of an element relative to the offsetParent. The offsetParent element is the nearest ancestor that has a position other than static.
  
