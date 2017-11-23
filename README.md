@@ -134,4 +134,9 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day26 - Stripe Follow Along Dropdown
 
 **What did I learn?** - Extending what we learned in Day22's challenge, continued building out the dropdown menu that transforms the height, width and content.
+
+
+## Day27 - Click and Drag
+
+**What I learned?** - The ability for the user to click and drag the contents horizontally.
  
