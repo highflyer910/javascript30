@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(to right, #186f9b, #082C3E);
+  font-family: sans-serif;
+}
+.wrapper {
+  width:850px;
+  display:flex;
+}
+video {
+  box-shadow:10px 10px 5px #062130;
+}
+
+.speed {
+  background:#efefef;
+  flex:1;
+  display:flex;
+  align-items:flex-start;
+  margin:10px;
+  border-radius: 50px;
+  overflow: hidden;
+}
+.speed-bar {
+  width:100%;
+  background: #166993;
+  text-shadow:1px 1px 0 rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding:10px;
+  color:white;
+  height:16.3%;
+}
