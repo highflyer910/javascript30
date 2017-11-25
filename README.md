@@ -144,4 +144,9 @@ You can check the project <a href="https://codepen.io/HighFlyer/full/MEQZQp/">he
 ## Day28 - Video Speed Controller UI
 
 **What did I learn?** - adding a speed controller to the corresponding video. The offset properties are important for proper aligments. For block-level elements, offsetTop, offsetLeft, offsetWidth, and offsetHeight describe the border box of an element relative to the offsetParent. The offsetParent element is the nearest ancestor that has a position other than static.
+
+
+## Day29 - Countdown Timer
+
+**What did I learn?** - timestamps, set & clear intervals and Date.now(). The Date.now() method returns the number of milliseconds elapsed since 1 January 1970 00:00:00 UTC. Because now() is a static method of Date, we can always use it as Date.now() instead of new Date().now().
  
