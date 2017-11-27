@@ -1,0 +1,87 @@
+html {
+  box-sizing: border-box;
+  font-size: 10px;
+  background: #BAAF92;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin:0;
+  font-family: 'Amatic SC', cursive;
+}
+
+.wrapper {
+  width: 800px;
+  padding: 30px;
+  margin: 30px auto;
+  border: 3px solid #785E4D;
+}
+
+h1 {
+  text-align: center;
+  font-size: 10rem;
+  line-height:1;
+  margin-bottom: 0;
+  color: #785E4D;
+}
+
+.score {
+  background:rgba(255,255,255,0.2);
+  padding:0 3rem;
+  line-height:1;
+  border: 1px solid #785E4D;
+  border-radius:1rem;
+}
+
+button{
+  display: block;
+  margin: 10px auto;
+  background: #F2EEE3;
+  border: 1px solid #785E4D;
+  color: #785E4D;
+  cursor: pointer;
+}
+
+.game {
+  width:600px;
+  height:400px;
+  display:flex;
+  flex-wrap:wrap;
+  margin:0 auto;
+}
+
+.hole {
+  flex: 1 0 33.33%;
+  overflow: hidden;
+  position: relative;
+}
+
+.hole:after {
+  display: block;
+  background: url(dirt.svg) bottom center no-repeat;
+  background-size:contain;
+  content:'';
+  width: 100%;
+  height:70px;
+  position: absolute;
+  z-index: 2;
+  bottom:-30px;
+}
+
+.mole {
+  background:url('https://studio.code.org/media?u=https%3A%2F%2Flh3.ggpht.com%2FHhQVHSiOobcjNWrWTRFVDtbZ9N1wXqh_Fm5M_l_1Xqr1YLlw_ZCjAdlf1IzZR0WqsB8v%3Dw170') bottom center no-repeat;
+  background-size:60%;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  height: 100%;
+  transition:all 0.4s;
+}
+
+.hole.up .mole {
+  top:0;
+}
